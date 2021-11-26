@@ -51,3 +51,7 @@ header{
     padding-top: 70px;
 }
 
+/* GAME ALBUM-ZONE */
+.game_album{
+    border-radius: 8px;
+}
