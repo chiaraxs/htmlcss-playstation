@@ -13,11 +13,22 @@ body{
     background-color: orangered;
 }
 
+.bg_blue{
+    background-color: royalblue;
+}
+
 /* FONT COLOR */
 .white_text{
     color: white;
 }
 
+.blue_text{
+    color: royalblue;
+}
+
+.gray_text{
+    color: gray;
+}
 /* HEADER */
 header{
    background-color: black; 
@@ -54,4 +65,9 @@ header{
 /* GAME ALBUM-ZONE */
 .game_album{
     border-radius: 8px;
+}
+
+/* SECTION-3 */
+.box_1_ps5{
+    margin-top: 100px;
 }
