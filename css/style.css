@@ -1,0 +1,21 @@
+/* HEADER */
+header{
+   background-color: black; 
+}
+
+/* LOGO SONY */
+.logo_sony{
+    height: 30px;
+}
+
+/* NAVBAR */
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    padding: 10px;
+}
+
+/* CLASS UTILITY */
+.btn{
+    border-radius: 20px;
+    padding: 5px 10px;
+}
