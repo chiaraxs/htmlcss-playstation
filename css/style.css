@@ -71,3 +71,16 @@ header{
 .box_1_ps5{
     margin-top: 100px;
 }
+
+/* SECTION-4 */
+.section_4{
+    height: 700px;
+    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+    object-fit: cover;
+    background-position: center; 
+}
+
+.text_logo_it_takes_two{
+    width: 400px;
+    padding-top: 70px;
+}
