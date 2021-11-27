@@ -29,6 +29,11 @@ body{
 .gray_text{
     color: gray;
 }
+
+.black_text{
+    color: black;
+}
+
 /* HEADER */
 header{
    background-color: black; 
@@ -88,4 +93,18 @@ header{
 /* SECTION-5 */
 .bg_dark_gray{
     background-color: rgb(37, 36, 36);
+}
+
+/* SECTION-7 */
+.bg_gray{
+    background-color: gray;
+}
+
+.text_logo_play_plus{
+    width: 400px;
+}
+
+/* SECTION 9 */
+.play_now{
+    background-color: rgb(4, 4, 71);
 }
