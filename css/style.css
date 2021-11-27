@@ -84,3 +84,8 @@ header{
     width: 400px;
     padding-top: 70px;
 }
+
+/* SECTION-5 */
+.bg_dark_gray{
+    background-color: rgb(37, 36, 36);
+}
