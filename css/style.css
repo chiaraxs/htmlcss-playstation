@@ -40,6 +40,31 @@ a.gray_button:hover{
     box-shadow: inset 0 0 0 2px royalblue;
 }
 
+/* LOGHI E IMG */
+.play_logo{
+    width: 50px;
+}
+
+.logo_jumbo{
+    width: 200px;
+}
+
+.section_3_thumb{
+    width: 800px;
+}
+
+.supp_ps img{
+    width: 200px;
+}
+
+.logo_section_4{
+    width: 200px;
+}
+
+.logo_play_plus, .logo_play_now{
+    width: 300px;
+}
+
 /* FONT COLOR */
 .white_text{
     color: white;
@@ -151,11 +176,6 @@ header{
 .play_now{
     background-color: rgb(4, 4, 71);
 }
-
-/* .play_april img{
-    width: 100%;
-    height: 100%;
-} */
 
 /* FOOTER LIST */
 footer ul li{
