@@ -2,11 +2,20 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* BUTTONS */
+/* BUTTONS + HOVER BUTTON */
+
 .btn{
     border-radius: 40px;
-    /* padding: 5px 10px; */
-    border: none;
+}
+
+a.orange_button, a.blue_button{
+    color: white;
+    border-width: 2px;
+}
+
+a.orange_button:hover{
+    box-shadow: inset 0 0 0 2px black;
+    color: white;
 }
 
 .bg_orange{
@@ -15,6 +24,20 @@ body{
 
 .bg_blue{
     background-color: rgb(47, 75, 160);
+}
+
+a.blue_button:hover{
+    box-shadow: inset 0 0 0 2px white;
+    color: white;
+}
+
+a.gray_button{
+    color: royalblue;
+    border-width: 2px;
+}
+
+a.gray_button:hover{
+    box-shadow: inset 0 0 0 2px royalblue;
 }
 
 /* FONT COLOR */
@@ -33,6 +56,9 @@ body{
 .black_text{
     color: black;
 }
+
+/* HOVER E CAROUSEL */
+
 
 /* HEADER */
 header{
@@ -122,4 +148,3 @@ footer a{
 .text_copy_right{
     width: 500px;
 }
-    
