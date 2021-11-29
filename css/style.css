@@ -4,8 +4,8 @@ body{
 
 /* BUTTONS */
 .btn{
-    border-radius: 20px;
-    padding: 5px 10px;
+    border-radius: 40px;
+    /* padding: 5px 10px; */
     border: none;
 }
 
@@ -14,7 +14,7 @@ body{
 }
 
 .bg_blue{
-    background-color: royalblue;
+    background-color: rgb(47, 75, 160);
 }
 
 /* FONT COLOR */
@@ -59,7 +59,7 @@ header{
     height: 500px;
     background-image: url(/img/jumbo-bg.png);
     object-fit: cover;
-    background-position: center; 
+    background-position: center center; 
 }
 
 .text_logo_returnal{
@@ -108,3 +108,18 @@ header{
 .play_now{
     background-color: rgb(4, 4, 71);
 }
+
+/* FOOTER LIST */
+footer ul li{
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.text_copy_right{
+    width: 500px;
+}
+    
