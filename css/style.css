@@ -4,10 +4,6 @@ body{
 
 /* BUTTONS + HOVER BUTTON */
 
-.btn{
-    border-radius: 40px;
-}
-
 a.orange_button, a.blue_button{
     color: white;
     border-width: 2px;
@@ -106,7 +102,7 @@ header{
 .jumbo{
     height: 500px;
     background-image: url(/img/jumbo-bg.png);
-    object-fit: cover;
+    background-size: cover;
     background-position: center center; 
 }
 
@@ -166,10 +162,6 @@ header{
 /* SECTION-7 */
 .bg_gray{
     background-color: gray;
-}
-
-.text_logo_play_plus{
-    /* width: 400px; */
 }
 
 /* SECTION 9 */
